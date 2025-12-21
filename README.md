@@ -5,18 +5,6 @@ I enjoy building complete systems — from architecture and backend services to 
 
 I'm motivated, self-taught, and constantly improving my technical and problem-solving skills.
 
----
-
-## 🧠 About Me
-
-- 🎓 Software Engineering background (University of Málaga, Hochschule Fulda)
-- 💻 Experience in backend, web development, embedded systems, and IoT
-- 🧩 Strong interest in system architecture and backend solutions
-- 🌍 Based in Malaga, Spain. Currently in Germany
-- 🚀 Always learning and improving
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
