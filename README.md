@@ -49,7 +49,7 @@ I'm motivated, self-taught, and constantly improving my technical and problem-so
 
 ### Embedded & IoT
 ![Rust Embedded](https://img.shields.io/badge/Rust%20Embedded-000000?style=flat&logo=rust&logoColor=white)
-![esp--rs](https://img.shields.io/badge/esp--rs-000000?style=flat&logo=rust&logoColor=white)
+![esp--rs](https://img.shields.io/badge/esp--rs-000000?style=flat&logo=rust&logoColor=orange)
 ![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=flat&logo=c&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
