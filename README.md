@@ -1,6 +1,6 @@
 # Hi, I'm Pablo 👋
 
-Software Engineer with interests in **full stack development, backend & frontend engineering, DevOps, and embedded software**.  
+Software Engineer with interests in **backend, full-stack & frontend engineering, DevOps, and embedded software**.  
 I enjoy building complete systems — from architecture and backend services to user interfaces and hardware-connected applications.
 
 I'm motivated, self-taught, and constantly improving my technical and problem-solving skills.
